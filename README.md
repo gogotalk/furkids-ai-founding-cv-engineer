@@ -1,67 +1,85 @@
-# furkids-ai-confounder-recruitment
-# Furkids AI — 招募AI深度學習視覺識別工程師| Co-founder Track 🚀
+# [Founding AI Computer Vision Engineer(deep learning) / 創始AI工程師] Furkids AI (Taiwan / Remote)
 
-我們不找打工的工程師，我們在找一位想用 AI 改變全球 10 億寵物家庭命運的 **招募AI深度學習視覺識別工程師| Co-founder Track**。
+> **TL;DR:** 我們正在尋找一位常駐台灣、具備深厚 **Computer Vision / Multimodal AI 實戰與系統架構能力** 的硬核 Builder，加入創始團隊並向 Technical Co-founder 軌道邁進。**只會串 OpenAI API、純 NLP 背景、或尋找穩定領死薪水大廠缺的請左轉。**
 
-## 為什麼是現在？
-Furkids AI 正處於從「深耕研發」走向「全球爆發」的臨界點。我們擁有來自百度、阿里、Google、成大的頂尖基因，並掌握了全球領先的寵物跨模態感官智能系統。這不是一個單純的 App，而是一個萬億級的寵物健康生態系統。
+---
 
-- **官網**: [https://www.furkidsai.com](https://www.furkidsai.com)  
-- **相關報導**: [數位時代 Meet 報導](https://meet.bnext.com.tw/articles/view/51947)
+## 🚀 About Furkids AI
 
-## 關於我們：解碼無聲的溝通
-Furkids AI 是全球領先開發 **「寵物跨模態感官辨識」** 技術的先驅團隊。  
-我們致力於解析寵物複雜的行為與生理信號，打造連接人類與寵物情感的「羅塞塔石碑」。
+**Furkids AI** 正在打造新一代 AI 寵物科技平台，結合 **Pet Computer Vision (CV)**、**Animal Sound Recognition (ASR)**、**Multimodal AI** 與 **AIoT**，讓機器能夠真正理解寵物的情緒、行為與潛在健康風險，建立「感知、理解並與寵物互動」的智慧生態系統。
 
-- **實力背景**：擁有超過 4 年的深度研發基礎，創始團隊具備百度、阿里巴巴高階管理經驗，核心成員來自 Google、Samsung 等世界級科技巨頭。  
-- **市場潛力**：直擊全球萬億美金級藍海市場，定義寵物照護的未來。  
-- **戰略佈局**：台灣研發總部為核心引擎，推動產品全面進軍歐美與國際市場。  
+* **團隊背景：** 成員與合作夥伴來自 Google、Baidu、Alibaba、Samsung Electronics，並與台灣、美國、日本、法國的頂尖動物行為學家深度合作。
+* **創辦人資歷：** 前百度、阿里巴巴高階管理層，擁有 14+ 年網路產品、用戶增長與 AI 商業化實戰經驗。
+* **階段與基地：** 核心技術基建已完成，目前從 **1 邁向 10（精度突破與工程升級階段）**。台灣將是產品開發、模型打磨與進軍歐美高溢價市場的核心基地。
 
-## 我們在找的「黃金級」人才
-目前團隊需要一位具備「極致執行力」與「技術深度」的夥伴，來補完最後一塊拼圖：
-- **拒絕顧問心態：** 我們不需要只出一張嘴的顧問，我們需要能親手擼代碼、架構系統的 Builder。
-- **共擔風險的格局：** 創業初期以**「期權/股權」**為核心激勵。你必須看懂這份技術在歐美市場的溢價潛力，而非糾結於眼前報酬。
-- **台灣核心、全球視野：** 你必須**常駐台灣**，**具備中文母語級的理解力（用於模型情緒標註的精準度）**，並能與我們一起推動產品走向歐美。
-- **發揮光和鹽的影響力:** 我們以聖經為我們職場和經營指南，致力在產業發揮光和鹽的正面影響力。
+🔗 **Website:** https://www.furkidsai.com/  
+📰 **Media Coverage (數位時代):** https://meet.bnext.com.tw/articles/view/51947
 
-## 激勵機制與期權方案
-- **員工認股期權 (Stock Options)：** 我們提供期權激勵方案，並設有明確的歸屬期（Vesting Schedule）。這項安排旨在確保核心成員能共同分享公司估值成長帶來的長期收益。
-- **薪資啟動機制：** 設有明確的薪資轉換路徑。一旦完成 **天使輪/A 輪融資，或產品在特定市場達成盈利目標**，即啟動具市場競爭力的現金薪資。
-- **未來溢價回報：** 作為創始團隊成員，你將直接參與公司未來在國際市場估值增長後的流動性收益。
+---
 
-## 適合的特質
-- 在 AI 領域有深厚背景，熟悉 **深度學習、CV、ASR 或多模態模型**
-- 曾經在產品化、技術落地或初創團隊中擔任重要角色
-- 具備**創業精神**，能接受「**前期投入 + 長期回報**」模式
-- 享受挑戰，願意將技術能力應用到一個全新且快速成長的藍海市場
-- **可以接受成員目前仍有在職工作**，但**需每週投入至少 20 小時，並確保有具體成果產出**。
-- **必須在台灣，且能看懂基礎中文，也能用基礎的中文溝通**。
+## 🛠️ Engineering Challenges (你將解決的核心問題)
 
-## 技術能力要求
-學歷與經歷要求: 
-1. 計算機科學或相關領域學士學位；碩士或博士優先
-2. **至少 3 年 AI 視覺識別模型開發經驗**。
+這不是從 0 到 1 的概念驗證（PoC），而是將現有架構推進至 **Production-grade** 的工程硬仗：
 
-技術能力要求： 
-1. **精通PyTorch深度學習框架:CNN、LSTM、Video Transformer以及多種預處理、時間建模方式**。
-2. **精通多GPU支援與分散式訓練**。
-3. **熟悉 AWS 雲端平台的操作與部署**
-4. **精通Python，熟練使用 Tkinter 與 OpenCV，並且能獨立開發資料標註工具**。
-5. **具備以下領域的實務經驗：面部檢測、面部標誌定位、面部識別、表情辨識**，如有動物面部或姿態識別，則優先考慮。
-6. 曾參與大型項目開發（優先考慮）：圖像/視頻檢索、圖像/視頻標註、視頻動作識別與內容理解
-7. 如果熟悉YAMNet嵌入以及神經網絡技術更加分，如果不熟悉，也要有快速學習能力。
+1. **System Refactoring & Optimization:** 重構與優化現有 AI 系統架構，提升高併發下的產品級穩定度與推理效能。
+2. **Model Precision & Multimodal Fusion:** 強化動態視覺（Video Modeling / Tracking）與聲學多模態模型的實戰精度，解決真實環境下的雜訊與 Edge Cases Bug。
+3. **Data Pipeline Automation:** 建立高效率的資料清洗、標註與自動化訓練管線（Data-centric AI）。
+4. **Scalable Deployment:** 將研究成果落地部署至雲端（AWS）與邊緣運算環境。
 
-創業精神與工作模式 
-1. **能接受創業初期風險，具備聯合創始人的能力與心態**
-2. 具備強大的**問題解決能力、高度自我驅動力、面對挑戰的創業精神**。
-3. 工作模式採責任制與成果導向，**每週至少投入 20 小時以上、每週進行一次工作回顧（Review）**，其餘時間可自行彈性調配。  
+---
 
+## 💻 Tech Stack & Requirements
 
-## 如何加入
-請在本 Repo 的 [Issues](./issues) 開一個新 issue，標題為**「申請招募AI深度學習視覺識別工程師| Co-founder Track — 你的名字」**，並簡述：
-1. **你的技術背景與作品連結（GitHub）**  
-2. **你能投入的時間與期望角色**  
-3. **為什麼你想加入 Furkids AI**
-4. 並將**你的履歷**一併寄送給我們**robbie@gogotalkfun.com，郵件標題為「申請招募AI深度學習視覺識別工程師Co-founder Track_你的名字」**
+### Must-Have (硬性門檻)
+* **3+ 年 Computer Vision 或 Multimodal 模型開發實戰經驗**。
+* 精通 **PyTorch** 與主流視覺架構（Object Detection / Multi-Object Tracking / Video Modeling）。
+* **深厚的 Production Debugging 能力：** 能深入底層 Trace 程式碼、解決模型精度瓶頸與工程 Bug，而非僅停留在調參或呼叫現成 API。
+* 熟悉 **Multi-GPU / 分散式訓練**，具備 **AWS** 雲端平台操作與系統部署經驗。
+* 具備 **System Architecture 思維**，能獨立設計並優化端到端的資料處理與訓練流程。
+* **Code Review 能力：** 善用 AI 工具放大 10 倍生產力，但具備審核並修正 AI-generated Code 的底層實力。
+* **座標與語言：** 必須常駐**台灣**，具備基礎中文讀寫與溝通能力（用於精準理解情緒資料標註與團隊協作）。
+
+### Nice-to-Have (加分項)
+* 動物姿態估計（Pose Estimation）/ 表情辨識經驗。
+* Audio Embedding 或跨模態特徵融合（Cross-modal Fusion）實戰經驗。
+* 從零打造大型分散式系統的完整經歷。
+
+---
+
+## 🤝 Cooperation Model & Compensation (兩階段合作機制)
+
+我們尋找的是共擔早期風險、共享長期歐美市場估值溢價的 **Founding Team 戰友**，而非永遠只拿期權的兼職：
+
+### Phase 1｜產品正式商業化並產生穩定盈利前
+* **激勵模式：** 以 **Stock Options（員工認股期權）** 為核心激勵（無固定現金薪資），設有明確的 Vesting Schedule 與 Cliff（依加入時間、技術貢獻、系統架構責任等綜合核定並書面簽約）。
+* **工作節奏：** 允許保留現職，但每週需穩定投入 **至少 20 小時**（台灣 Remote）。純結果導向，每週進行一次 Technical / Product Review，與 Founder 直接對接。
+
+### Phase 2｜商業化並達成盈利條件後
+當公司同時達成：**① 產品正式商業化、② 連續 3 個月達到約定營收門檻、③ 公司達成盈利**，立即啟動第二階段：
+* **身分轉換：** 必須轉為 **Full-time**。
+* **薪資啟動：** 正式啟動具市場競爭力的 **固定現金薪資（Cash Salary）**，同時保留原有 Stock Options 並持續參與股權增值。
+* **職責晉升：** 正式進入 **Technical Co-founder** 軌道，逐步承擔 Core AI System Building、Engineering Roadmap、技術決策與工程團隊組建。
+
+---
+
+## 🚫 Who Should NOT Apply (不適合這個職位的人)
+
+為了節省彼此的時間，如果你符合以下任一項，請勿投遞：
+* 只想找一份穩定的 Senior Engineer 工作，無法承受早期 Startup 的不確定性。
+* 無法接受營利前以 Stock Options 為主的激勵機制，或達標後不願轉 Full-time。
+* 只會串接 LLM API、或僅擅長純 NLP 領域。
+* 需要別人寫好完整 Technical Spec 才肯動手寫 Code 的打工心態。
+* 只會讓 AI 產生程式碼，卻沒有能力 Debug 與 Review 系統架構。
+
+---
+
+## 📬 How to Apply
+
+我們不看學歷，只看重你解決問題的速度、架構思維與實戰交付能力。如果你不滿足於只寫代碼，想用技術定義走向全球的 AI 產品：
+
+請直接透過以下方式聯繫我們，**無需制式 104 履歷**，請直接附上你的 **GitHub Profile、技術 Blog、或你最自豪的 Production 專案與解決過最棘手的 Bug 案例**：
+
+* **Email / Contact:** robbie@gogotalkfun.com
+* **Website:** https://www.furkidsai.com/  
 
 我們會在 7 天內回覆，並邀請合適人選進一步交流。
